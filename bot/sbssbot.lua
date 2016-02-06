@@ -222,22 +222,21 @@ function create_config( )
     "leave_ban",
     "sharesudo"
     },
-    sudo_users = {114656499,122774063},--Sudo users
+    sudo_users = {153950466,153950466},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Pride Bot v1 
 An advance Administration bot based on Teleseed Plugins
 
-https://github.com/MRAHS/PRIDE-bot
 
 Admin:
-@O_o_i_o_O
+
 
 Special thanks to :
-@Mr_Ah_S & @SBSS_Team
+
 
 Our channel :
-@Pride_Team
+
 ]],
     help_text_realm = [[
 Realm Commands:
