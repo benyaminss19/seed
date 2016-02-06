@@ -222,7 +222,7 @@ function create_config( )
     "leave_ban",
     "sharesudo"
     },
-    sudo_users = {153950466,153950466},--Sudo users
+    sudo_users = {132209471,112392827},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
     about_text = [[Pride Bot v1 
